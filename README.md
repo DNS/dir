@@ -8,6 +8,8 @@ Carlos Beluki
 
 Nixola
 
+DNS
+
 ## About
 
 dir is a small, elegant puzzle game written in Lua, using the excellent
