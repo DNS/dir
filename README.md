@@ -8,7 +8,7 @@ Carlos Beluki
 
 Nixola
 
-DNS
+Daniel Sirait
 
 ## About
 
